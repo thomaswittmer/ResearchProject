@@ -1,0 +1,12 @@
+.red{
+    color:red;
+    font-weight: bold;
+}
+
+#map { 
+    height: 100vh; 
+}
+
+#wrap{
+    grid-template-rows: 100px auto;
+}
